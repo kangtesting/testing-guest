@@ -1,2 +1,3 @@
 newtext uploaded by a guest
 newtext edited by a guest on line
+Add one more line after I changed privilege from Admin to Write
